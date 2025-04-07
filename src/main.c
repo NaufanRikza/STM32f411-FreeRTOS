@@ -30,9 +30,6 @@ const osThreadAttr_t defaultTask_attributes = {
 void SystemClock_Config(void);
 void StartDefaultTask(void *argument);
 
-
-
-
 /**
   * @brief  The application entry point.
   * @retval int
