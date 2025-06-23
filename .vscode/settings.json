@@ -4,6 +4,7 @@
     "cmsis_os2.h": "c",
     "cmsis_os.h": "c",
     "main.h": "c",
-    "system_config.h": "c"
+    "system_config.h": "c",
+    "drone_propeller.h": "c"
   }
 }
